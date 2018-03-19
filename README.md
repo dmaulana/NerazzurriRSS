@@ -22,4 +22,4 @@ how to use it:
 2. signup / login to your account
 3. open menu tab.
 4. choose add content
-5. paste above link one by one.
+5. paste above links one by one.
