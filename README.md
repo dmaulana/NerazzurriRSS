@@ -7,6 +7,9 @@ English/Italian Language:
 3. http://www.goal.com/en/feeds/team-news?id=2&fmt=rss
 4. http://www.sempreinter.com/feed/
 5. http://inter.theoffside.com/rss/current
+6. http://www.tribalfootball.com/rss/mediafed/general/rss.xml?club=inter-milan
+7. http://www.calciomercato.com/feed/teams/inter-news
+
 
 Indonesian Language:
 1. https://calciobuzz.com/feed/
